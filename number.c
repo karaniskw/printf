@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * convert - converter function, a clone of itoa
+ * convert -this converts integer to alphabet
  * @num: number
  * @base: base
  * @flags: argument flags
