@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_hex - prints unsigned hex numbers in lowercase
- * @ap: the argument pointer
+ * print_hex - this prints unsigned hex numbers in lowercase
+ * @ap: argument pointer
  * @params: the parameters struct
  *
  * Return: bytes printed
